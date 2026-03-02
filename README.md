@@ -36,7 +36,7 @@ The project includes a GitHub Actions workflow (`deploy.yml`) that automates the
 
 ## Requirements
 
-- macOS 14.0 or later
+- macOS 26.0 or later
 - Xcode 15.0 or later (for development)
 
 ## Getting Started
