@@ -1,9 +1,9 @@
-# LocalChat
+# apple-intelligence-local-chat
 
 > [!WARNING]
 > **Experimental Project**: This is an experimental, local-first chat application currently in active development.
 
-LocalChat is an innovative, local-first chat application for macOS built with SwiftUI and SwiftData. It integrates native on-device AI capabilities using Apple's `FoundationModels` framework, ensuring privacy and fast responses without relying on external cloud APIs.
+**apple-intelligence-local-chat** is an innovative, local-first chat application for macOS built with SwiftUI and SwiftData. It integrates native on-device AI capabilities using Apple's `FoundationModels` framework, ensuring privacy and fast responses without relying on external cloud APIs.
 
 ## Key Features
 
@@ -41,6 +41,6 @@ The project includes a GitHub Actions workflow (`deploy.yml`) that automates the
 
 ## Getting Started
 
-1. Clone the repository.
+1. Clone the repository: `git clone https://github.com/arnaudbagnis/apple-intelligence-local-chat.git`
 2. Open `LocalChat.xcodeproj` in Xcode.
 3. Build and run the `LocalChat` scheme on your local Mac.
